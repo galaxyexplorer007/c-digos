@@ -2,4 +2,4 @@ personagem = input('Escolha um personagem: ')
 lugar = input('Para onde ele foi?: ')
 acao = input('O que fez lá?: ')
 
-print(f'{personagem} foi para {lugar} e lá {personagem} de repente {acao}.')
+print(f'{personagem} foi para {lugar} e lá {personagem} de repente {acao} e morreu.')
